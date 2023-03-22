@@ -1,0 +1,11 @@
+e7e6fceb51444a1bbba30dfd35632b0b *DESCRIPTION
+d35a70d43023d73d56f0c1648ef5de65 *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+9253ff467042b1074007bfe3fe78189a *NEWS.md
+34c3ef164b717cdb9784e0d273ea0fb3 *R/data.R
+e90acc66d4e1cb24141bbb68ccb0db70 *README.md
+758fe8db0266dbeb491c0164a92db6b9 *data/pokemon.rda
+18dc2cf8dce8a1f4da3c1229e788a8a2 *data/pokemon_ptbr.rda
+1086f983451539a5baa29263a6ee9d3e *man/figures/README-unnamed-chunk-2-1.png
+7fd975b225a37954758f672b3f8078e1 *man/pokemon.Rd
+841d291616d043ec13e76cca5d6d905b *man/pokemon_ptbr.Rd
